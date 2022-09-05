@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a826543f5cb03d",
+        "id": "3500ea38477b2d64",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4a826543f5cb03d",
+  "active": "3500ea38477b2d64",
   "lastOpenFiles": [
-    "spmis/JWT+ Spring Security 적용계획.md",
+    "동양미래대학교 수업/프로젝트/2 학기 수업 예정 (요약).md",
+    "동양미래대학교 수업/프로젝트/spmis/채팅 만들기.md",
+    "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md",
+    "2022-09-05.md",
+    "동양미래대학교 수업/프로젝트/spmis/JAVA에서 한글 파일 만들기/JAVA에서 한글 파일을 만들기위한 기초 지식.md",
+    "동양미래대학교 수업/프로젝트/spmis/1학기 수업 요약.md",
+    "cs/디자인패턴/싱글톤 패턴.md",
+    "강의 기록/무제노트.md",
     "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
-    "spmis/JPA 적용 계획.md",
-    "동양미래대학교 수업/프로젝트/spmis/JPA 적용 계획.md",
-    "동양미래대학교 수업/프로젝트/spmis/프로젝트 계획.md",
-    "spmis/프로젝트 계획.md",
-    "spring/Web MVC/서블릿.md",
-    "spring/Spring + Spring Security + JWT 토큰.md",
-    "spring/Sequrity/Spring + Spring Security + JWT 토큰.md",
-    "spring/JPA/JPA란.md"
+    "동양미래대학교 수업/프로젝트/spmis/JPA 적용 계획.md"
   ]
 }
