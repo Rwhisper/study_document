@@ -7,12 +7,8 @@
         "id": "b4a826543f5cb03d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "spmis/20220904 프로젝트 현황.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spmis/20220904 프로젝트 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spmis/20220904 프로젝트 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "spmis/20220904 프로젝트 현황.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39419f4c0f0df002",
+  "active": "b4a826543f5cb03d",
   "lastOpenFiles": [
     "spmis/JWT+ Spring Security 적용계획.md",
-    "spmis/프로젝트 계획.md",
-    "cs/팩토리 패턴/팩토리 패턴이란.md",
-    "cs/디자인패턴/싱글톤 패턴.md",
-    "cs/디자인패턴/디자인 패턴이란.md",
-    "무제노트.md",
-    "algorithm/프로그래머스/두 큐 합 같게만들기.md",
-    "algorithm/프로그래머스/프로그래머스_lev2_소수찾기.md",
+    "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
     "spmis/JPA 적용 계획.md",
-    "spring/JPA란.md"
+    "동양미래대학교 수업/프로젝트/spmis/JPA 적용 계획.md",
+    "동양미래대학교 수업/프로젝트/spmis/프로젝트 계획.md",
+    "spmis/프로젝트 계획.md",
+    "spring/Web MVC/서블릿.md",
+    "spring/Spring + Spring Security + JWT 토큰.md",
+    "spring/Sequrity/Spring + Spring Security + JWT 토큰.md",
+    "spring/JPA/JPA란.md"
   ]
 }

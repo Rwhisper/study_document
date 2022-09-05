@@ -12,8 +12,14 @@
 - [ ] 시큐리티 적용하지 않을 폴더 목록 입력 (WebSecurityCustomizer)
 - [ ] jwt 토큰 사용
 
-### 2. Token Provider 생성
-- [ ] 
+
+### 2. filter 설정하기
+
+
+### 3. JwtProvider 생성
+
+
+
 
 
 - 
