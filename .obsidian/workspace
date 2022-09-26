@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
+            "file": "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b5e568abf31a3a6a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "동양미래대학교 수업/프로젝트/spmis/2022-09-22회의.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
+                "file": "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
+                "file": "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/spring/Security/Spring + Spring Security + JWT 토큰.md"
+                "file": "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md"
               }
             }
           }
@@ -130,15 +142,15 @@
   },
   "active": "3500ea38477b2d64",
   "lastOpenFiles": [
-    "web/spring/Security/Oauth2 google.md",
-    "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
-    "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
-    "동양미래대학교 수업/프로젝트/spmis/채팅 만들기.md",
     "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md",
-    "동양미래대학교 수업/프로젝트/spmis/JAVA에서 한글 파일 만들기/JAVA에서 한글 파일을 만들기위한 기초 지식.md",
-    "동양미래대학교 수업/프로젝트/spmis/게시판 계획.md",
-    "web/spring/Web MVC/Spring Boot.md",
-    "web/spring/Web MVC/웹 채신기술.md",
-    "web/spring/Web MVC/쓰레드 풀.md"
+    "동양미래대학교 수업/프로젝트/2 학기 수업 예정 (요약).md",
+    "동양미래대학교 수업/기술과 경영/4주차.md",
+    "동양미래대학교 수업/프로젝트/spmis/채팅 만들기.md",
+    "동양미래대학교 수업/프로젝트/spmis/2022-09-22회의.md",
+    "동양미래대학교 수업/고급 알고리즘/1주차.md",
+    "[.md",
+    "동양미래대학교 수업/고급 알고리즘/3주차.md",
+    "동양미래대학교 수업/고급 알고리즘/3주차 atm.md",
+    "2022-09-19 프로젝트 일정 계획.md"
   ]
 }
