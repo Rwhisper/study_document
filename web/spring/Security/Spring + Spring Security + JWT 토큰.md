@@ -53,6 +53,7 @@ public WebSecurityCustomizer webSecurityCustomizer() {
 - loginProcessingUrl() : 해당 url으로 로그인 요청이오면 시큐리티가 낚아채서 대신 로그인을 진행한다.
 - defaultSuccessUrl() : 로그인이 성공하면 보여줄 페이지 
 	- defaultSuccessUrl("/") 으로 설정하게 되면 특정페이지에서 로그인하게되면 그 페이지로 다시 보내준다.
+- jwt를 사용하면 formLogin을 사용하지 않고 따로 필터를 두어서 낚아채야한다.
 
 
 ### Security 로그인 진행 방식
@@ -85,3 +86,42 @@ loginProcessingUrl 요청이 오면 자동으로 UserDetailsService타입으로 
 - 두가지 이상의 권한에게 접근시킬때 사용하는 어노테이션입니다.
 - SecurityConfig의 @EnableGlobalMethodSecurity()어노테이션 안에 prePostEnabled = true 추가해서 활성화 한다.
 - @PreAuthorize("hasRole('ROLE_MANAGER') or hasRole('ROLE_ADMIN')")
+
+
+# Error
+## cors 적용시 에러
+> 스프링 부트에서 cors 설정시 `addAllowedOrigin("**")` 과 `setAllowCredentials(true)`를 동시에 사용할 수 없게 되었음
+
+#### 해결 
+`addAllowedOrigin("**")` -> `addAllowedOriginPattern("**") 변경
+
+## AuthenticationManager 가져오기
+> 이전에는 AuthenticationManager 내용이 WebSecurityConfigurerAdapter에 담겨있어서 그냥 호출하면 되었었지만 시큐리티 정책이 바뀌면서 WebSecurityConfigurerAdapter가 사용되지않도록 바뀌었기에 authenticationManager사용 방법도 변경되었습니다.
+
+[참조][https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter]
+
+``` java 
+public class MyCustomDsl extends AbstractHttpConfigurer<MyCustomDsl, HttpSecurity> {
+    @Override
+    public void configure(HttpSecurity http) throws Exception {
+        AuthenticationManager authenticationManager = http.getSharedObject(AuthenticationManager.class);
+        http.addFilter(new CustomFilter(authenticationManager));
+    }
+
+    public static MyCustomDsl customDsl() {
+        return new MyCustomDsl();
+    }
+}
+```
+
+그런 다음 다음을 빌드할 때 사용자 지정 DSL을 적용할 수 있습니다 `SecurityFilterChain`.
+``` java
+@Bean
+public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+    // ...
+    http.apply(customDsl());
+    return http.build();
+} 
+```
+
+

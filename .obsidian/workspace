@@ -6,22 +6,24 @@
       {
         "id": "3500ea38477b2d64",
         "type": "leaf",
+        "dimension": 43.87755102040816,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
+            "file": "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "b5e568abf31a3a6a",
+        "id": "1e7314d28038b47c",
         "type": "leaf",
+        "dimension": 56.12244897959183,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "동양미래대학교 수업/프로젝트/spmis/2022-09-22회의.md",
+            "file": "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
+                "file": "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
+                "file": "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md"
+                "file": "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md"
               }
             }
           }
@@ -140,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3500ea38477b2d64",
+  "active": "1e7314d28038b47c",
   "lastOpenFiles": [
-    "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md",
-    "동양미래대학교 수업/프로젝트/2 학기 수업 예정 (요약).md",
-    "동양미래대학교 수업/기술과 경영/4주차.md",
-    "동양미래대학교 수업/프로젝트/spmis/채팅 만들기.md",
+    "자료구조/HashMap.md",
+    "동양미래대학교 수업/기술과 경영/6주차.md",
+    "동양미래대학교 수업/기술과 경영/5주차.md",
+    "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
     "동양미래대학교 수업/프로젝트/spmis/2022-09-22회의.md",
-    "동양미래대학교 수업/고급 알고리즘/1주차.md",
-    "[.md",
-    "동양미래대학교 수업/고급 알고리즘/3주차.md",
-    "동양미래대학교 수업/고급 알고리즘/3주차 atm.md",
-    "2022-09-19 프로젝트 일정 계획.md"
+    "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
+    "intellij/error.md",
+    "web/spring/Security/Security 인증 성공후 페이지가 안넘어갈때.md",
+    "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
+    "[.md"
   ]
 }
