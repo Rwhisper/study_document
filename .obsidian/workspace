@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md",
+            "file": "test.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md"
+                "file": "test.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "1e7314d28038b47c",
   "lastOpenFiles": [
+    "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md",
     "자료구조/HashMap.md",
     "동양미래대학교 수업/기술과 경영/6주차.md",
     "동양미래대학교 수업/기술과 경영/5주차.md",
@@ -152,7 +153,6 @@
     "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
     "intellij/error.md",
     "web/spring/Security/Security 인증 성공후 페이지가 안넘어갈때.md",
-    "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
-    "[.md"
+    "web/spring/Security/Spring + Spring Security + JWT 토큰.md"
   ]
 }
