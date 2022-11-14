@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "a69ae2679ae54954",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7180006526e600",
+        "type": "tabs",
+        "dimension": 43.87755102040816,
+        "children": [
+          {
+            "id": "3500ea38477b2d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "846c8a27fa0cc393",
+        "type": "tabs",
+        "dimension": 56.12244897959183,
+        "children": [
+          {
+            "id": "1e7314d28038b47c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53ab6681313e0418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동양미래대학교 수업/프로젝트/spmis/일정/20221112 이후 작업 예정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f8e9270f53d9fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동양미래대학교 수업/프로젝트/spmis/모듈 개발/discord 알림 적용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "848d23432b21f456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동양미래대학교 수업/프로젝트/spmis/모듈 개발/JPA 적용 계획.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef0640d8aa94ff52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동양미래대학교 수업/프로젝트/spmis/일정/20221112 이후 작업 예정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7299eb82c8b6b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/무제파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb1893572b8c758f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/정규표현식/Pattern 클래스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f0213a3c627d3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/정규표현식/Matcher 클래스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9914190dd179983d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/정규표현식/정규 표현식 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74410b4e1e9a91b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3920176b395c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39419f4c0f0df002",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3bfa1733605880e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d020c9c3f95e9a28",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1a9de4e034a66b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0aacb63091de08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f14448671cb08b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JAVA/정규표현식/정규 표현식 문법.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2282c619554dfaf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JAVA/정규표현식/정규 표현식 문법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "381bc150d50f14cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6604195b4cf4f65a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JAVA/정규표현식/정규 표현식 문법.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9914190dd179983d",
+  "lastOpenFiles": [
+    "동양미래대학교 수업/프로젝트/spmis/일정/20221112 이후 작업 예정.md",
+    "JAVA/정규표현식/정규 표현식 문법.md",
+    "JAVA/정규표현식/Matcher 클래스.md",
+    "JAVA/정규표현식/Pattern 클래스.md",
+    "JAVA/무제파일.md",
+    "동양미래대학교 수업/프로젝트/spmis/일정/2022-09-22회의.md",
+    "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md",
+    "동양미래대학교 수업/프로젝트/spmis/모듈 개발/JWT+ Spring Security 적용계획.md",
+    "동양미래대학교 수업/프로젝트/spmis/모듈 개발/JPA 적용 계획.md",
+    "동양미래대학교 수업/프로젝트/spmis/모듈 개발/discord 알림 적용.md"
+  ]
+}
