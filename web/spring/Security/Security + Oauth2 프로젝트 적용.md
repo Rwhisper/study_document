@@ -2,9 +2,9 @@
 시큐리티 사용을 위해  Security 의존성 주입을 해준다.
 > implementation 'org.springframework.boot:spring-boot-starter-security:2.7.3'
 
+1
 
-
-## 1. SecurityConfig
+## . SecurityConfig
 - 시큐리티를 사용하기 위해서는 security 필터를 등록해 주어야 한다.
 - SecurityConfig 설정 파일에 HttpSecurity를 받아 SecurityFilterChain를 반환하는 빈 객체를 등록해준다.
 

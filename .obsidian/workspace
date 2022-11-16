@@ -21,12 +21,17 @@
         "type": "leaf",
         "dimension": 56.12244897959183,
         "state": {
+<<<<<<< Updated upstream
           "type": "markdown",
           "state": {
             "file": "test.md",
             "mode": "source",
             "source": false
           }
+=======
+          "type": "empty",
+          "state": {}
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -91,7 +96,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "test.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +116,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "test.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +141,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "test.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -144,6 +159,10 @@
   },
   "active": "1e7314d28038b47c",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
+=======
+    "test.md",
+>>>>>>> Stashed changes
     "동양미래대학교 수업/프로젝트/spmis/discord 알림 적용.md",
     "자료구조/HashMap.md",
     "동양미래대학교 수업/기술과 경영/6주차.md",
@@ -152,7 +171,11 @@
     "동양미래대학교 수업/프로젝트/spmis/2022-09-22회의.md",
     "동양미래대학교 수업/프로젝트/spmis/JWT+ Spring Security 적용계획.md",
     "intellij/error.md",
+<<<<<<< Updated upstream
     "web/spring/Security/Security 인증 성공후 페이지가 안넘어갈때.md",
     "web/spring/Security/Spring + Spring Security + JWT 토큰.md"
+=======
+    "web/spring/Security/Security 인증 성공후 페이지가 안넘어갈때.md"
+>>>>>>> Stashed changes
   ]
 }

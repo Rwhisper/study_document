@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "a69ae2679ae54954",
+    "type": "split",
+    "children": [
+      {
+        "id": "f169674cf9ba1bc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3500ea38477b2d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f021ab2625ae66ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동양미래대학교 수업/기술과 경영/9주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c447a3af93deca25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황 1107.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4e208cb450d0c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동양미래대학교 수업/기술과 경영/11주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "253ccd2bf9fdeb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "동양미래대학교 수업/기술과 경영/과제함/3번째 과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74410b4e1e9a91b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3920176b395c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39419f4c0f0df002",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3bfa1733605880e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d020c9c3f95e9a28",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1a9de4e034a66b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0aacb63091de08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f14448671cb08b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "동양미래대학교 수업/기술과 경영/과제함/3번째 과제.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2282c619554dfaf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "동양미래대학교 수업/기술과 경영/과제함/3번째 과제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "381bc150d50f14cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6604195b4cf4f65a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "동양미래대학교 수업/기술과 경영/과제함/3번째 과제.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "253ccd2bf9fdeb2d",
+  "lastOpenFiles": [
+    "동양미래대학교 수업/기술과 경영/11주차.md",
+    "동양미래대학교 수업/기술과 경영/9주차.md",
+    "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황 1107.md",
+    "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
+    "플래티어 자기소개서.md",
+    "동양미래대학교 수업/기술과 경영/7주차.md",
+    "동양미래대학교 수업/프로젝트/spmis/Ajax 적용.md",
+    "일정 확인.md",
+    "동양미래대학교 수업/프로젝트/spmis/비동기 메시지 전송 모듈.md",
+    "test.md"
+  ]
+}
