@@ -1,0 +1,15 @@
+- 스프링 기본
+- 스프링에서 테스트 환경 구축하기
+- security 사용
+- jpa
+- jwt 활용
+- 캐시 활용?
+- redis
+- 빌드/배포 환경관련
+- 에러처리 환경
+- db
+- nginx
+- nexus
+- 서버 자원관리
+- transation
+- catId
