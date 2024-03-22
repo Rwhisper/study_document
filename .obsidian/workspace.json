@@ -56,19 +56,43 @@
             }
           },
           {
-            "id": "253ccd2bf9fdeb2d",
+            "id": "52e3cbb92e63e3af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동양미래대학교 수업/기술과 경영/과제함/3번째 과제.md",
+                "file": "web/spring/Web MVC/쓰레드 풀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55fb3bd7abed2923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/md 사용법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66646e946a9f1566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자료구조/리스트(List).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -113,12 +137,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "287a20bd525f6bf0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1a9de4e034a66b3",
@@ -134,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "동양미래대학교 수업/기술과 경영/과제함/3번째 과제.md",
+                "file": "자료구조/리스트(List).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "동양미래대학교 수업/기술과 경영/과제함/3번째 과제.md",
+                "file": "자료구조/리스트(List).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "동양미래대학교 수업/기술과 경영/과제함/3번째 과제.md"
+                "file": "자료구조/리스트(List).md"
               }
             }
           }
@@ -185,17 +218,48 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "253ccd2bf9fdeb2d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "66646e946a9f1566",
   "lastOpenFiles": [
-    "동양미래대학교 수업/기술과 경영/11주차.md",
-    "동양미래대학교 수업/기술과 경영/9주차.md",
-    "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황 1107.md",
-    "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
+    "JAVA/자료형.md",
+    "자료구조/리스트(List).md",
+    "자료구조/그래프.md",
+    "TO DO/자료구조, 알고리즘 정리.md",
+    "알고리즘/다익스트라(Dijkstra).md",
+    "알고리즘/힙(Heap - priority queue).md",
+    "알고리즘/동적계획법(Dynamic Programming; DP).md",
+    "자료구조/트리.md",
+    "알고리즘/재귀.md",
+    "자료구조/해시 테이블.md",
+    "자료구조/큐 & 스택.md",
+    "Other/md 사용법.md",
+    "알고리즘",
+    "intellij/error.md",
     "플래티어 자기소개서.md",
-    "동양미래대학교 수업/기술과 경영/7주차.md",
-    "동양미래대학교 수업/프로젝트/spmis/Ajax 적용.md",
-    "일정 확인.md",
-    "동양미래대학교 수업/프로젝트/spmis/비동기 메시지 전송 모듈.md",
-    "test.md"
+    "web/spring/Web MVC/멀티쓰레드 .md",
+    "무제 파일.md",
+    "intellij/인텔리제이 맥 단축키.md",
+    "web/spring/Web MVC/동시접속 장애 발생.md",
+    "web/spring/Test/TEST 환경 구축하기.md",
+    "web/spring/Test",
+    "web/spring/Web MVC/쓰레드 풀.md",
+    "web/spring/Web MVC/무제 폴더",
+    "web/spring/Web MVC/서블릿.md",
+    "web/spring/Web MVC/웹 채신기술.md",
+    "무제 폴더 1",
+    "TO DO",
+    "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
+    "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
+    "web/spring/Security/Oauth2 google.md",
+    "web/spring/Security/Security 인증 성공후 페이지가 안넘어갈때.md"
   ]
 }
