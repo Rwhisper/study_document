@@ -6,7 +6,7 @@
       {
         "id": "6b7180006526e600",
         "type": "tabs",
-        "dimension": 43.87755102040816,
+        "dimension": 52.85714285714286,
         "children": [
           {
             "id": "3500ea38477b2d64",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
+                "file": "intellij/error.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "846c8a27fa0cc393",
         "type": "tabs",
-        "dimension": 56.12244897959183,
+        "dimension": 47.14285714285714,
         "children": [
           {
             "id": "1e7314d28038b47c",
@@ -134,9 +134,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74c5ce33ae4ed9f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-20 22.21.01.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "bddabc9c29659bea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-20 22.20.59.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,6 +201,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "12204e3a65e5f1db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -202,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/정규표현식/정규 표현식 문법.md",
+                "file": "intellij/error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/정규표현식/정규 표현식 문법.md",
+                "file": "intellij/error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,8 +270,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/정규표현식/정규 표현식 문법.md"
+                "file": "intellij/error.md"
               }
+            }
+          },
+          {
+            "id": "24103de803cb1ec9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -253,10 +289,34 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9914190dd179983d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "39419f4c0f0df002",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-20 22.21.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-20 22.20.59.excalidraw.md",
+    "cs/팩토리 패턴/팩토리 패턴이란.md",
+    "cs/디자인패턴/싱글톤 패턴.md",
+    "cs/디자인패턴/디자인 패턴이란.md",
+    "2024-07-20.md",
     "동양미래대학교 수업/프로젝트/spmis/일정/20221112 이후 작업 예정.md",
+    "test.md",
     "JAVA/정규표현식/정규 표현식 문법.md",
+    "Excalidraw",
+    "docker/docker.md",
+    "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
+    "docker/Docker.md",
+    "docker",
+    "무제 파일.canvas",
     "JAVA/정규표현식/Matcher 클래스.md",
     "JAVA/정규표현식/Pattern 클래스.md",
     "JAVA/무제파일.md",
