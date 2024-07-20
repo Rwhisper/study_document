@@ -300,8 +300,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39419f4c0f0df002",
+  "active": "3500ea38477b2d64",
   "lastOpenFiles": [
+    "자료구조/해시 테이블.md",
+    "자료구조/트리.md",
+    "자료구조/큐 & 스택.md",
+    "자료구조/리스트(List).md",
+    "자료구조/그래프.md",
+    "알고리즘/힙(Heap - priority queue).md",
+    "알고리즘/재귀.md",
+    "알고리즘/동적계획법(Dynamic Programming; DP).md",
+    "알고리즘/다익스트라(Dijkstra).md",
+    "알고리즘",
+    "비즈니스 로직/결제 프로세스.md",
+    "비즈니스 로직/결제 관련 용어 정리.md",
+    "비즈니스 로직/EDI.md",
+    "비즈니스 로직/BIN 번호.md",
+    "비즈니스 로직",
+    "New Note.md",
     "Excalidraw/Drawing 2024-07-20 22.21.01.excalidraw.md",
     "Excalidraw/Drawing 2024-07-20 22.20.59.excalidraw.md",
     "cs/팩토리 패턴/팩토리 패턴이란.md",
@@ -316,14 +332,6 @@
     "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
     "docker/Docker.md",
     "docker",
-    "무제 파일.canvas",
-    "JAVA/정규표현식/Matcher 클래스.md",
-    "JAVA/정규표현식/Pattern 클래스.md",
-    "JAVA/무제파일.md",
-    "동양미래대학교 수업/프로젝트/spmis/일정/2022-09-22회의.md",
-    "동양미래대학교 수업/프로젝트/spmis/프로젝트 현황.md",
-    "동양미래대학교 수업/프로젝트/spmis/모듈 개발/JWT+ Spring Security 적용계획.md",
-    "동양미래대학교 수업/프로젝트/spmis/모듈 개발/JPA 적용 계획.md",
-    "동양미래대학교 수업/프로젝트/spmis/모듈 개발/discord 알림 적용.md"
+    "무제 파일.canvas"
   ]
 }
