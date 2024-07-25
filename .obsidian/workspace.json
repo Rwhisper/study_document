@@ -73,82 +73,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/동양미래대학교 수업/프로젝트/spmis/일정/20221112 이후 작업 예정.md",
+                "file": "사이드/암복호화 페이지/Project TODO List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c7299eb82c8b6b3d",
+            "id": "59b43e34952fe605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/JAVA/무제파일.md",
+                "file": "자료구조/트리.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb1893572b8c758f",
+            "id": "786739f8b95db048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/JAVA/정규표현식/Pattern 클래스.md",
+                "file": "aa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f0213a3c627d3c3",
+            "id": "66646e946a9f1566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/JAVA/정규표현식/Matcher 클래스.md",
+                "file": "사이드/LostSprit v2/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9914190dd179983d",
+            "id": "4ed4c26232901f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/JAVA/정규표현식/정규 표현식 문법.md",
+                "file": "사이드/정리를 못하는 사람들을 위한 정리방법/organize.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "74c5ce33ae4ed9f5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resource/Excalidraw/Drawing 2024-07-20 22.21.01.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "bddabc9c29659bea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resource/Excalidraw/Drawing 2024-07-20 22.20.59.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -222,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-05.md",
+                "file": "aa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-05.md",
+                "file": "aa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09-05.md"
+                "file": "aa.md"
               }
             }
           },
@@ -292,44 +272,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39419f4c0f0df002",
+  "active": "786739f8b95db048",
   "lastOpenFiles": [
-    "Resource/알고리즘/다익스트라(Dijkstra).md",
-    "플래티어_자기소개서.md",
-    "Resource/알고리즘/동적계획법(Dynamic Programming; DP).md",
-    "Resource",
-    "Archive",
-    "Area",
-    "Project",
-    "Resource/spring/SPRING 이해하기.md",
-    "Resource/spring/주요기능/IOC.md",
-    "Resource/spring/주요기능",
-    "spring/Drawing 2024-07-20 23.07.37.excalidraw.md",
     "일정 확인.md",
+    "무제 파일.md",
     "무제 파일.canvas",
-    "spring/Drawing 2024-07-20 23.00.27.excalidraw.md",
-    "Resource/spring/JPA/jpa persistent(영속성).md",
-    "Resource/spring/JPA/Entity와 DTO, VO.md",
-    "Resource/자료구조/큐 & 스택.md",
-    "spring/DTO",
-    "Resource/자료구조/해시 테이블.md",
-    "Resource/자료구조/트리.md",
-    "Resource/자료구조/HashMap.md",
-    "Resource/자료구조/리스트(List).md",
-    "Resource/자료구조/그래프.md",
-    "Resource/알고리즘/힙(Heap - priority queue).md",
-    "Resource/알고리즘/재귀.md",
-    "Resource/비즈니스 로직/결제 관련 용어 정리.md",
-    "Resource/동양미래대학교 수업/프로젝트/spmis/모듈 개발/JPA 적용 계획.md",
-    "Resource/동양미래대학교 수업/프로젝트/spmis/모듈 개발/discord 알림 적용.md",
-    "test.md",
-    "Resource/동양미래대학교 수업/프로젝트/spmis/일정/20221112 이후 작업 예정.md",
-    "Resource/비즈니스 로직/BIN 번호.md",
-    "Resource/비즈니스 로직/결제 프로세스.md",
-    "Resource/intellij/error.md",
-    "Resource/알고리즘",
-    "Resource/비즈니스 로직",
-    "Resource/Excalidraw",
-    "Resource/docker"
+    "2022-09-19 프로젝트 일정 계획.md",
+    "2022-09-05.md",
+    "blog/쓸 내용.md",
+    "New Note.md",
+    "README.md",
+    "aa.md",
+    "web/spring/DB connection/H2.md",
+    "경력 기술서.md",
+    "플래티어 자기소개서.md",
+    "사이드/5년 다이어리/정책 목록/회원.md",
+    "사이드/5년 다이어리/기능 목록.md",
+    "사이드/5년 다이어리/프로젝트 개요.md",
+    "사이드/5년 다이어리/아키텍쳐 및 기술 스택을 정하기 위한 정리.md",
+    "web/spring/DB connection",
+    "사이드/5년 다이어리/이메일 인증.md",
+    "사이드/5년 다이어리/정책 목록",
+    "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
+    "web/spring/Security/Security 인증 성공후 페이지가 안넘어갈때.md",
+    "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
+    "web/spring/Security/Oauth2 google.md",
+    "사이드/미니게임?/개요.md",
+    "사이드/미니게임?/Main Process.md",
+    "사이드/미니게임?/씬 관리.md",
+    "사이드/미니게임?/룰렛.md",
+    "사이드/미니게임?/사다리 타기.md",
+    "사이드/미니게임?",
+    "사이드/5년 다이어리",
+    "blog",
+    "사이드/스프링 예제 정리",
+    "사이드/암복호화 페이지",
+    "사이드/touch_down_bell",
+    "사이드/정리를 못하는 사람들을 위한 정리방법",
+    "사이드/LostSprit v2"
   ]
 }
