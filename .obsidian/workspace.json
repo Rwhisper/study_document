@@ -4,105 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "846c8a27fa0cc393",
+        "id": "f169674cf9ba1bc7",
         "type": "tabs",
         "children": [
-          {
-            "id": "6f8e9270f53d9fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/동양미래대학교 수업/프로젝트/spmis/모듈 개발/discord 알림 적용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "848d23432b21f456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/spring/JPA/jpa persistent(영속성).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "856e9b46e70d110a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일정 확인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b5f1846b815d5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/spring/주요기능/IOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfa975cdb596777c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-09-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef0640d8aa94ff52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사이드/암복호화 페이지/Project TODO List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59b43e34952fe605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자료구조/트리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "786739f8b95db048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "66646e946a9f1566",
             "type": "leaf",
@@ -127,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +78,7 @@
             }
           },
           {
-            "id": "12204e3a65e5f1db",
+            "id": "287a20bd525f6bf0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -202,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aa.md",
+                "file": "사이드/LostSprit v2/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aa.md",
+                "file": "사이드/LostSprit v2/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,16 +145,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aa.md"
+                "file": "사이드/LostSprit v2/무제 파일.md"
               }
-            }
-          },
-          {
-            "id": "24103de803cb1ec9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -268,47 +163,47 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "786739f8b95db048",
+  "active": "39419f4c0f0df002",
   "lastOpenFiles": [
-    "일정 확인.md",
-    "무제 파일.md",
-    "무제 파일.canvas",
-    "2022-09-19 프로젝트 일정 계획.md",
-    "2022-09-05.md",
-    "blog/쓸 내용.md",
+    "Arcaive",
+    "Area",
+    "Project",
+    "TO DO/2024-04-19.md",
+    "TO DO/자료구조, 알고리즘 정리.md",
+    "Resource/spring/Test/TEST 환경 구축하기.md",
+    "Resource/spring/DB connection/H2.md",
     "New Note.md",
-    "README.md",
+    "일정 확인.md",
     "aa.md",
-    "web/spring/DB connection/H2.md",
-    "경력 기술서.md",
-    "플래티어 자기소개서.md",
-    "사이드/5년 다이어리/정책 목록/회원.md",
-    "사이드/5년 다이어리/기능 목록.md",
-    "사이드/5년 다이어리/프로젝트 개요.md",
-    "사이드/5년 다이어리/아키텍쳐 및 기술 스택을 정하기 위한 정리.md",
-    "web/spring/DB connection",
-    "사이드/5년 다이어리/이메일 인증.md",
-    "사이드/5년 다이어리/정책 목록",
-    "web/spring/Security/Spring + Spring Security + JWT 토큰.md",
-    "web/spring/Security/Security 인증 성공후 페이지가 안넘어갈때.md",
-    "web/spring/Security/Security + Oauth2 프로젝트 적용.md",
-    "web/spring/Security/Oauth2 google.md",
-    "사이드/미니게임?/개요.md",
-    "사이드/미니게임?/Main Process.md",
-    "사이드/미니게임?/씬 관리.md",
-    "사이드/미니게임?/룰렛.md",
-    "사이드/미니게임?/사다리 타기.md",
-    "사이드/미니게임?",
-    "사이드/5년 다이어리",
+    "Resource/알고리즘/이진 탐색.md",
+    "2022-09-19 프로젝트 일정 계획.md",
+    "무제 파일.canvas",
+    "무제 파일.md",
+    "2024-07-20.md",
+    "2022-09-05.md",
+    "Resource/알고리즘/힙(Heap - priority queue).md",
+    "Resource/알고리즘/재귀.md",
+    "Resource/알고리즘/동적계획법(Dynamic Programming; DP).md",
+    "Resource/알고리즘/다익스트라(Dijkstra).md",
+    "Resource/알고리즘/파라매트릭 서치.md",
+    "Resource/알고리즘/재귀 1.md",
+    "Resource/알고리즘/이진트리.md",
+    "Resource/자료구조/그래프.md",
+    "사이드/암복호화 페이지/Project TODO List.md",
+    "Resource/자료구조 1/해시 테이블.md",
+    "Resource/자료구조 1/트리.md",
+    "Resource/자료구조/리스트(List).md",
+    "Resource/자료구조/큐 & 스택.md",
+    "Resource/spring/DB connection",
     "blog",
-    "사이드/스프링 예제 정리",
-    "사이드/암복호화 페이지",
-    "사이드/touch_down_bell",
-    "사이드/정리를 못하는 사람들을 위한 정리방법",
-    "사이드/LostSprit v2"
+    "TO DO",
+    "Resource/동양미래대학교 수업/프로젝트/spmis/모듈 개발/JAVA에서 한글 파일 만들기",
+    "Resource/동양미래대학교 수업/프로젝트/spmis/일정",
+    "Resource/동양미래대학교 수업/프로젝트/spmis/모듈 개발",
+    "Resource/동양미래대학교 수업/프로젝트/spmis",
+    "Resource/동양미래대학교 수업/기술과 경영/중요내용 정리"
   ]
 }
