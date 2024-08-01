@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f169674cf9ba1bc7",
+        "id": "9665f3195f71af56",
         "type": "tabs",
         "children": [
           {
-            "id": "66646e946a9f1566",
+            "id": "c5b917619e502a22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사이드/LostSprit v2/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ed4c26232901f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사이드/정리를 못하는 사람들을 위한 정리방법/organize.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.5
   },
   "right": {
     "id": "e1a9de4e034a66b3",
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "사이드/LostSprit v2/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "사이드/LostSprit v2/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "사이드/LostSprit v2/무제 파일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,47 +143,48 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "39419f4c0f0df002",
   "lastOpenFiles": [
-    "Arcaive",
-    "Area",
-    "Project",
-    "TO DO/2024-04-19.md",
-    "TO DO/자료구조, 알고리즘 정리.md",
-    "Resource/spring/Test/TEST 환경 구축하기.md",
-    "Resource/spring/DB connection/H2.md",
-    "New Note.md",
-    "일정 확인.md",
-    "aa.md",
-    "Resource/알고리즘/이진 탐색.md",
-    "2022-09-19 프로젝트 일정 계획.md",
-    "무제 파일.canvas",
-    "무제 파일.md",
-    "2024-07-20.md",
-    "2022-09-05.md",
-    "Resource/알고리즘/힙(Heap - priority queue).md",
-    "Resource/알고리즘/재귀.md",
-    "Resource/알고리즘/동적계획법(Dynamic Programming; DP).md",
-    "Resource/알고리즘/다익스트라(Dijkstra).md",
-    "Resource/알고리즘/파라매트릭 서치.md",
-    "Resource/알고리즘/재귀 1.md",
-    "Resource/알고리즘/이진트리.md",
-    "Resource/자료구조/그래프.md",
+    "Project/Turnover/나에 대한 정리.md",
+    "사이드/5년 다이어리/정책 목록/회원.md",
+    "사이드/정리를 못하는 사람들을 위한 정리방법/organize.md",
     "사이드/암복호화 페이지/Project TODO List.md",
-    "Resource/자료구조 1/해시 테이블.md",
-    "Resource/자료구조 1/트리.md",
-    "Resource/자료구조/리스트(List).md",
-    "Resource/자료구조/큐 & 스택.md",
-    "Resource/spring/DB connection",
+    "사이드/스프링 예제 정리/Project TODO List.md",
+    "사이드/미니게임/씬 관리.md",
+    "사이드/미니게임/사다리 타기.md",
+    "사이드/미니게임/룰렛.md",
+    "사이드/미니게임/개요.md",
+    "사이드/미니게임/Main Process.md",
+    "사이드/touch_down_bell/Project TO DO LIST.md",
+    "사이드/LostSprit v2/무제 파일.md",
+    "사이드/5년 다이어리/프로젝트 개요.md",
+    "사이드/5년 다이어리/정책 목록",
+    "사이드/5년 다이어리/이메일 인증.md",
+    "사이드/5년 다이어리/아키텍쳐 및 기술 스택을 정하기 위한 정리.md",
+    "사이드/5년 다이어리/기능 목록.md",
+    "사이드/정리를 못하는 사람들을 위한 정리방법",
+    "사이드/암복호화 페이지",
+    "사이드/스프링 예제 정리",
+    "사이드/미니게임",
+    "사이드/touch_down_bell",
+    "사이드/LostSprit v2",
+    "사이드/5년 다이어리",
+    "사이드",
+    "blog/쓸 내용.md",
     "blog",
-    "TO DO",
-    "Resource/동양미래대학교 수업/프로젝트/spmis/모듈 개발/JAVA에서 한글 파일 만들기",
-    "Resource/동양미래대학교 수업/프로젝트/spmis/일정",
-    "Resource/동양미래대학교 수업/프로젝트/spmis/모듈 개발",
-    "Resource/동양미래대학교 수업/프로젝트/spmis",
-    "Resource/동양미래대학교 수업/기술과 경영/중요내용 정리"
+    "Resource/docker/docker.md",
+    "conflict-files-obsidian-git.md",
+    "Resource/JAVA/빌드.md",
+    "Resource/자료구조/리스트(List).md",
+    "Resource/자료구조/그래프.md",
+    "Resource/cs/디자인패턴/싱글톤 패턴.md",
+    "Resource/cs/디자인패턴/디자인 패턴이란.md",
+    "Resource/알고리즘/동적계획법(Dynamic Programming; DP).md",
+    "Resource/알고리즘/이진 탐색.md",
+    "무제 파일.canvas"
   ]
 }
