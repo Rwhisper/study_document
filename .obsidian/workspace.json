@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/spring/JPA/JPA란.md",
+                "file": "Project/Side Project/Home Server/홈 서버 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/spring/JPA/JPA란.md",
+                "file": "Project/Side Project/Home Server/홈 서버 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/spring/JPA/JPA란.md",
+                "file": "Project/Side Project/Home Server/홈 서버 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/spring/JPA/JPA란.md"
+                "file": "Project/Side Project/Home Server/홈 서버 만들기.md"
               }
             }
           }
@@ -157,42 +157,42 @@
   },
   "active": "c5b917619e502a22",
   "lastOpenFiles": [
+    "Project/Side Project/5년 다이어리/기능 목록.md",
+    "Project/Side Project/Home Server/홈 서버 만들기.md",
+    "Project/Side Project/Home Server",
+    "Project/Side Project/5년 다이어리/아키텍쳐 및 기술 스택을 정하기 위한 정리.md",
+    "Project/Side Project/touch_down_bell/Project TO DO LIST.md",
+    "Resource/spring/JPA/JPA란.md",
     "Resource/spring/JPA/JPA 프록시.md",
     "Resource/spring/JPA/Entity와 DTO, VO.md",
     "Project/Study/JPA.md",
     "Project/Study",
     "Project/Turnover/나에 대한 정리.md",
-    "사이드/5년 다이어리/정책 목록/회원.md",
-    "사이드/정리를 못하는 사람들을 위한 정리방법/organize.md",
-    "사이드/암복호화 페이지/Project TODO List.md",
-    "사이드/스프링 예제 정리/Project TODO List.md",
-    "사이드/미니게임/씬 관리.md",
-    "사이드/미니게임/사다리 타기.md",
-    "사이드/미니게임/룰렛.md",
-    "사이드/미니게임/개요.md",
-    "사이드/미니게임/Main Process.md",
-    "사이드/touch_down_bell/Project TO DO LIST.md",
+    "Project/Side Project/5년 다이어리/정책 목록/회원.md",
+    "Project/Side Project/정리를 못하는 사람들을 위한 정리방법/organize.md",
+    "Project/Side Project/암복호화 페이지/Project TODO List.md",
+    "Project/Side Project/스프링 예제 정리/Project TODO List.md",
+    "Project/Side Project/미니게임/씬 관리.md",
+    "Project/Side Project/미니게임/사다리 타기.md",
+    "Project/Side Project/미니게임/룰렛.md",
+    "Project/Side Project/미니게임/개요.md",
+    "Project/Side Project/미니게임/Main Process.md",
     "사이드/LostSprit v2/무제 파일.md",
-    "사이드/5년 다이어리/프로젝트 개요.md",
-    "사이드/5년 다이어리/정책 목록",
-    "사이드/5년 다이어리/이메일 인증.md",
-    "사이드/5년 다이어리/아키텍쳐 및 기술 스택을 정하기 위한 정리.md",
-    "사이드/5년 다이어리/기능 목록.md",
-    "사이드/정리를 못하는 사람들을 위한 정리방법",
-    "사이드/암복호화 페이지",
-    "사이드/스프링 예제 정리",
-    "사이드/미니게임",
-    "사이드/touch_down_bell",
+    "Project/Side Project/5년 다이어리/프로젝트 개요.md",
+    "Project/Side Project/5년 다이어리/정책 목록",
+    "Project/Side Project/5년 다이어리/이메일 인증.md",
+    "Project/Side Project/정리를 못하는 사람들을 위한 정리방법",
+    "Project/Side Project/암복호화 페이지",
+    "Project/Side Project/스프링 예제 정리",
+    "Project/Side Project/미니게임",
+    "Project/Side Project/touch_down_bell",
     "사이드/LostSprit v2",
-    "사이드/5년 다이어리",
-    "사이드",
+    "Project/Side Project/5년 다이어리",
     "blog/쓸 내용.md",
     "Resource/docker/docker.md",
     "conflict-files-obsidian-git.md",
     "Resource/JAVA/빌드.md",
     "Resource/자료구조/리스트(List).md",
-    "Resource/자료구조/그래프.md",
-    "Resource/cs/디자인패턴/싱글톤 패턴.md",
     "무제 파일.canvas"
   ]
 }
