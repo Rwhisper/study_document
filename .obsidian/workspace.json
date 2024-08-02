@@ -11,8 +11,12 @@
             "id": "c5b917619e502a22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Resource/spring/JPA/JPA란.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resource/spring/JPA/JPA란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resource/spring/JPA/JPA란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Resource/spring/JPA/JPA란.md"
+              }
             }
           }
         ]
@@ -147,8 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39419f4c0f0df002",
+  "active": "c5b917619e502a22",
   "lastOpenFiles": [
+    "Resource/spring/JPA/JPA 프록시.md",
+    "Resource/spring/JPA/Entity와 DTO, VO.md",
+    "Project/Study/JPA.md",
+    "Project/Study",
     "Project/Turnover/나에 대한 정리.md",
     "사이드/5년 다이어리/정책 목록/회원.md",
     "사이드/정리를 못하는 사람들을 위한 정리방법/organize.md",
@@ -175,16 +187,12 @@
     "사이드/5년 다이어리",
     "사이드",
     "blog/쓸 내용.md",
-    "blog",
     "Resource/docker/docker.md",
     "conflict-files-obsidian-git.md",
     "Resource/JAVA/빌드.md",
     "Resource/자료구조/리스트(List).md",
     "Resource/자료구조/그래프.md",
     "Resource/cs/디자인패턴/싱글톤 패턴.md",
-    "Resource/cs/디자인패턴/디자인 패턴이란.md",
-    "Resource/알고리즘/동적계획법(Dynamic Programming; DP).md",
-    "Resource/알고리즘/이진 탐색.md",
     "무제 파일.canvas"
   ]
 }
