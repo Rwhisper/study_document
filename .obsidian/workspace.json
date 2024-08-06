@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Study/inflearn/Load Map/Spring Mvc/타임리프 - 기본기능.md",
+                "file": "Project/신한 PG/Study/EAI.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Study/inflearn/Load Map/Spring Mvc/타임리프 - 기본기능.md",
+                "file": "Project/신한 PG/Study/EAI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Study/inflearn/Load Map/Spring Mvc/타임리프 - 기본기능.md",
+                "file": "Project/신한 PG/Study/EAI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Study/inflearn/Load Map/Spring Mvc/타임리프 - 기본기능.md"
+                "file": "Project/신한 PG/Study/EAI.md"
               }
             }
           }
@@ -156,15 +156,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5b917619e502a22",
+  "active": "39419f4c0f0df002",
   "lastOpenFiles": [
+    "Project/Study/inflearn/Load Map/Spring Mvc(김영한)/타임리프 - 스프링 통합과 폼.md",
+    "Project/신한 PG/Study/EAI.md",
+    "Project/신한 PG/Study",
+    "Project/신한 PG",
+    "Area",
+    "사이드/LostSprit v2/무제 파일.md",
+    "Project/Study/inflearn/Load Map/Spring Mvc(김영한)/MVC 2편 정리.md",
+    "Project/Study/inflearn/Load Map/Spring Mvc(김영한)/타임리프 - 기본기능.md",
     "Project/Side Project/5년 다이어리/기능 목록.md",
-    "Project/Study/inflearn/Load Map/Spring Mvc/타임리프 - 기본기능.md",
-    "Project/Study/inflearn/Load Map/Spring Mvc/서버 사이드 HTML 랜더링(SSR).md",
-    "Project/Study/inflearn/Load Map/Spring Mvc/네츄럴 템플릿.md",
-    "Project/Study/inflearn/Load Map/Spring Mvc/MVC 2편 정리.md",
+    "Project/Study/inflearn/Load Map/Spring Mvc(김영한)/서버 사이드 HTML 랜더링(SSR).md",
+    "Project/Study/inflearn/Load Map/Spring Mvc(김영한)/네츄럴 템플릿.md",
     "Project/Study/JPA.md",
-    "Project/Study/inflearn/Load Map/Spring Mvc",
+    "Project/Study/inflearn/Load Map/Spring Mvc(김영한)",
     "Project/Study/inflearn/Load Map",
     "Project/Study/inflearn",
     "Project/Side Project/스프링 예제 정리/Project TODO List.md",
@@ -185,15 +191,9 @@
     "Project/Side Project/미니게임/룰렛.md",
     "Project/Side Project/미니게임/개요.md",
     "Project/Side Project/미니게임/Main Process.md",
-    "사이드/LostSprit v2/무제 파일.md",
     "Project/Side Project/5년 다이어리/프로젝트 개요.md",
     "Project/Side Project/5년 다이어리/정책 목록",
-    "Project/Side Project/5년 다이어리/이메일 인증.md",
     "Project/Side Project/정리를 못하는 사람들을 위한 정리방법",
-    "Project/Side Project/암복호화 페이지",
-    "Project/Side Project/스프링 예제 정리",
-    "Project/Side Project/미니게임",
-    "blog/쓸 내용.md",
     "무제 파일.canvas"
   ]
 }
